@@ -101,10 +101,17 @@ social:
       header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
+<<<<<<< HEAD
     link: https://scholar.google.com/citations?user=OK9eHHAAAAAJ&hl=en
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
+=======
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+>>>>>>> ee09dcd99e48ebca0be90b2124156459e99f9402
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/aritra-bhowmik-362b9a293
